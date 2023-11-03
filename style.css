@@ -1,0 +1,38 @@
+body{
+margin:64px;
+text-align: center;
+font-family:"Georgia";
+font-size:32px;
+color:#FFF;
+line-height:1.5;
+background:#021;
+}
+p{
+text-align: justify;
+text-indent: 64px;
+}
+h2{
+margin:64px;
+text-align: center;
+font-family:"Georgia";
+font-size:32px;
+line-height:1.5;
+color:#AAA;
+background:#222;
+}
+.button{
+text-align: center;
+color:#021;
+border:#888888 0px solid;
+border-radius:3px;
+padding:8px 12px;
+background:#FFF;
+text-decoration: none;
+line-height:2;
+white-space: nowrap;
+}
+.button:hover{
+background:#111;
+color:#999;
+white-space: nowrap;
+}
